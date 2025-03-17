@@ -42,9 +42,12 @@ npm run build
 
 This will generate a production-ready build.
 
-🖼 Project Preview
+## 🖼 Project Preview  
 
-🔗 Live Site: Real Estate Hub
+![Real Estate Hub Preview](https://real-estate-hub-seven.vercel.app/preview.png)  
+
+🔗 **Live Site:** [Real Estate Hub](https://real-estate-hub-seven.vercel.app/)
+
 
 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
