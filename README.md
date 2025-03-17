@@ -31,8 +31,8 @@ Follow these steps to set up the project on your local machine:
 cd RealEstateHub/vite-project
 
 Install dependencies:
-
 npm install
+
 Start the development server:
 npm run dev
 
@@ -41,12 +41,6 @@ To deploy the project, use:
 npm run build
 
 This will generate a production-ready build.
-
-## 🖼 Project Preview  
-
-![Real Estate Hub Preview](https://real-estate-hub-seven.vercel.app/preview.png)  
-
-🔗 **Live Site:** [Real Estate Hub](https://real-estate-hub-seven.vercel.app/)
 
 
 🤝 Contributing
